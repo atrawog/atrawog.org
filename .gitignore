@@ -162,4 +162,7 @@ cython_debug/
 #.idea/
 
 # Jupyter Book
-_pycache_build/
+_pycache/
+_build/
+_output/
+.jupyterlite.doit.db
